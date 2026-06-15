@@ -352,5 +352,4 @@ echo
 echo "  /connect"
 echo
 echo "Select 'CANNBOT' and enter your Virtual Key (VK)."
-echo "Get your VK at: https://cannbot.hicann.cn -> Settings -> API Keys"
 echo
