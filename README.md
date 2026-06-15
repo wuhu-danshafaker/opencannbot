@@ -17,12 +17,12 @@
 
 ### 安装
 
-1. 获取你的 Virtual Key (VK)：访问 https://cannbot.hicann.cn -> 设置 -> API Keys
+获取你的 Virtual Key (VK)：访问 https://cannbot.hicann.cn -> 设置 -> API Keys
 
-2. 运行安装脚本：
+**一键安装：**
 
 ```bash
-bash install-cannbot-provider.sh
+curl -fsSL https://raw.githubusercontent.com/BadFatCat0919/opencannbot/main/install-cannbot-provider.sh | bash
 ```
 
 脚本会提示输入 VK，输入后自动完成配置。
