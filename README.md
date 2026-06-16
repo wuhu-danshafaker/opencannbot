@@ -11,8 +11,16 @@
 
 **一键安装：**
 
+macOS / Linux：
+
 ```bash
 curl -fsSL https://raw.githubusercontent.com/BadFatCat0919/opencannbot/main/install-cannbot-provider.sh | bash
+```
+
+Windows（PowerShell）：
+
+```powershell
+irm https://raw.githubusercontent.com/BadFatCat0919/opencannbot/main/install-cannbot-provider.ps1 | iex
 ```
 
 脚本只负责注册 provider，安装完成后重启 opencode，在 opencode 中输入 `/connect`，输入 **CANNBOT** 并填入你的 Virtual Key (VK)。
